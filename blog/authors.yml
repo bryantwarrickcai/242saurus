@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+bryantwarrickcai:
+  name: Bryant Warrick Cai
+  title: Website owner
+  url: https://github.com/bryantwarrickcai
+  image_url: https://github.com/bryantwarrickcai.png
+  page: true
+  socials:
+    github: bryantwarrickcai
+
+Nodnod77:
+  name: Donia Sakji
+  title: Co-author
+  url: https://github.com/Nodnod77
+  image_url: https://github.com/Nodnod77.png
+  page: true
+  socials:
+    github: Nodnod77
